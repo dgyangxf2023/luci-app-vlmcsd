@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "KMS Server"
+msgstr "KMS服务器"
+
+msgid "Current Version"
+msgstr "当前版本"
+
+msgid "KMS server is on"
+msgstr "KMS服务器运行中"
+
+msgid "KMS server is off"
+msgstr "KMS服务器未运行"
+
+msgid "Basic Setting"
+msgstr "基本设置"
+
+msgid "config"
+msgstr "配置文件"
+
+msgid "Log"
+msgstr "日志"
+
+msgid "enable"
+msgstr "启用"
+
+msgid "Use config file"
+msgstr "使用配置文件"
+
+msgid "Auto Activation"
+msgstr "自动激活"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "disable"
+msgstr "禁用"
+
+msgid "Reference tutorial"
+msgstr "参考教程"
+
+msgid "Empty Log File"
+msgstr "清空日志"
+
+msgid "Every"
+msgstr "每"
+
+msgid "Sun"
+msgstr "周日"
+
+msgid "Mon"
+msgstr "周一"
+
+msgid "Tue"
+msgstr "周二"
+
+msgid "Wed"
+msgstr "周三"
+
+msgid "Thu"
+msgstr "周四"
+
+msgid "Fri"
+msgstr "周五"
+
+msgid "Sat"
+msgstr "周六"
+
+msgid "disable"
+msgstr "禁用"
+
+msgid "Local Port"
+msgstr "本地端口"
